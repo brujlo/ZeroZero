@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJEKTI\\ZeroZero\\CleaningSolution\\CleaningSolution\\CleaningSolution.csproj": {}
+    "F:\\PROJEKTI\\VS\\CleaningSolution_Git\\CleaningSolution\\CleaningSolution.csproj": {}
   },
   "projects": {
-    "E:\\PROJEKTI\\ZeroZero\\CleaningSolution\\CleaningSolution\\CleaningSolution.csproj": {
+    "F:\\PROJEKTI\\VS\\CleaningSolution_Git\\CleaningSolution\\CleaningSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJEKTI\\ZeroZero\\CleaningSolution\\CleaningSolution\\CleaningSolution.csproj",
+        "projectUniqueName": "F:\\PROJEKTI\\VS\\CleaningSolution_Git\\CleaningSolution\\CleaningSolution.csproj",
         "projectName": "CleaningSolution",
-        "projectPath": "E:\\PROJEKTI\\ZeroZero\\CleaningSolution\\CleaningSolution\\CleaningSolution.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJEKTI\\ZeroZero\\CleaningSolution\\CleaningSolution\\obj\\",
+        "projectPath": "F:\\PROJEKTI\\VS\\CleaningSolution_Git\\CleaningSolution\\CleaningSolution.csproj",
+        "packagesPath": "C:\\Users\\brujlo\\.nuget\\packages\\",
+        "outputPath": "F:\\PROJEKTI\\VS\\CleaningSolution_Git\\CleaningSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brujlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,7 +51,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.3.1, )"
             }
           },
           "imports": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
